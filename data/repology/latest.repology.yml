@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: reqlog-bin
+  binname: reqlog-bin
+  visiblename: reqlog-bin
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: Fast CLI for searching, tracing, and streaming logs across files, Docker containers, and remote hosts
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: sysutils/reqlog
+  binname: reqlog
+  visiblename: sysutils/reqlog
+  version: 0.10.0
+  origversion: 0.10.0_2
+  status: newest
+  summary: Search, trace, and stream logs across files, Docker, and SSH
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - sysutils
