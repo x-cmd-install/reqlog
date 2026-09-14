@@ -45,12 +45,12 @@ Total: **8,493** lines of code across **64** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 1 | 2 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-15 | 5 | 12 | 0 | 0 | 0 | 14 |
-| last180d | 2026-03-17 | 20 | 54 | 0 | 14 | 0 | 85 |
-| 360d | 2025-09-18 | 20 | 54 | 0 | 14 | 0 | 91 |
-| last720d | 2024-09-23 | 20 | 54 | 0 | 14 | 0 | 145 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 1 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-16 | 5 | 11 | 0 | 0 | 0 | 14 |
+| last180d | 2026-03-18 | 20 | 54 | 0 | 14 | 0 | 85 |
+| 360d | 2025-09-19 | 20 | 54 | 0 | 14 | 0 | 91 |
+| last720d | 2024-09-24 | 20 | 54 | 0 | 14 | 0 | 145 |
 
 ## Release assets
 
@@ -68,10 +68,6 @@ Total: **8,493** lines of code across **64** files in the top 5 languages.
 | [reqlog_0.10.0_windows_amd64.zip](https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_windows_amd64.zip) | 2.4 MiB | `native/win/x64` |
 | [reqlog_0.10.0_windows_arm64.zip](https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_windows_arm64.zip) | 2.1 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/reqlog). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for reqlog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `reqlog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +77,4 @@ Install metadata for reqlog lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:44:27Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:03:09Z._
