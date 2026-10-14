@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2273781,
       "digest": "sha256:0e4dee9d0106ed4169c59ea282d9cf35cb064bd2b5d7d86dfceedbd2bc83d68a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-07-16T15:04:03Z",
       "updated_at": "2026-07-16T15:04:04Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2409630,
       "digest": "sha256:bf9df3201b617243a63d0ba408ed9b5d934b7d29fb217777d51a0a3355600817",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-07-16T15:04:04Z",
       "updated_at": "2026-07-16T15:04:04Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_linux_amd64.tar.gz"
