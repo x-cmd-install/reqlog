@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2404861,
       "digest": "sha256:0c620527f2d78c45ddf3bd0e53bd407c55abe2b143e20004e76ca7e62e877da8",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-07-16T15:04:04Z",
       "updated_at": "2026-07-16T15:04:04Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_linux_amd64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2409630,
       "digest": "sha256:bf9df3201b617243a63d0ba408ed9b5d934b7d29fb217777d51a0a3355600817",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-07-16T15:04:04Z",
       "updated_at": "2026-07-16T15:04:04Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2195922,
       "digest": "sha256:2b8ab1913d59f269a93d9cabe9b7b9d9e5987043a1d6a9ae7f770756ac3afe1a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-07-16T15:04:04Z",
       "updated_at": "2026-07-16T15:04:04Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_linux_arm64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2208451,
       "digest": "sha256:303e9dc8fe509c3d2a1fe4fbfaf7158c51f21dcbcaaaae6eaa7362faff771bb2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-07-16T15:04:03Z",
       "updated_at": "2026-07-16T15:04:03Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.10.0/reqlog_0.10.0_linux_arm64.tar.gz"
