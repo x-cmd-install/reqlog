@@ -2,8 +2,8 @@
   srcname: reqlog-bin
   binname: reqlog-bin
   visiblename: reqlog-bin
-  version: 0.10.0
-  origversion: 0.10.0-1
+  version: 0.11.0
+  origversion: 0.11.0-1
   status: newest
   summary: Fast CLI for searching, tracing, and streaming logs across files, Docker containers, and remote hosts
   maintainers:
@@ -16,7 +16,7 @@
   visiblename: sysutils/reqlog
   version: 0.10.0
   origversion: 0.10.0_4
-  status: newest
+  status: outdated
   summary: Search, trace, and stream logs across files, Docker, and SSH
   maintainers:
     - olgeni@freebsd.org
