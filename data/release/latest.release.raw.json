@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2407382,
       "digest": "sha256:f861e9a5aa25a1faa6e92c04a4ce4c49a9674bc5e059c13ee501d67860a8633d",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-24T14:37:34Z",
       "updated_at": "2026-10-24T14:37:34Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.11.0/reqlog_0.11.0_linux_amd64.tar.gz"
