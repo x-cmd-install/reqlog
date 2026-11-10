@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 978,
       "digest": "sha256:d51a07987b943e0561f72c710c696f728ca734cf4094ab7a506faf359dfd7b1e",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-10-24T14:37:36Z",
       "updated_at": "2026-10-24T14:37:36Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.11.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2431341,
       "digest": "sha256:36ea13911b7ab9094292dec84ce8c40402f93695614ab55967debe1a32f5fb25",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-10-24T14:37:35Z",
       "updated_at": "2026-10-24T14:37:35Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.11.0/reqlog_0.11.0_darwin_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2407382,
       "digest": "sha256:f861e9a5aa25a1faa6e92c04a4ce4c49a9674bc5e059c13ee501d67860a8633d",
-      "download_count": 25,
+      "download_count": 29,
       "created_at": "2026-10-24T14:37:34Z",
       "updated_at": "2026-10-24T14:37:34Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.11.0/reqlog_0.11.0_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2198996,
       "digest": "sha256:376e8abb6965159f0ee0b85471206ae4d2f42dd1ab455b8ff748a709b274ed45",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-24T14:37:36Z",
       "updated_at": "2026-10-24T14:37:36Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.11.0/reqlog_0.11.0_linux_arm64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2198405,
       "digest": "sha256:aa81b35425a25f0dfcccd3de246ddc5508b5ca94c9e11f500cf69204598e74ee",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-24T14:37:34Z",
       "updated_at": "2026-10-24T14:37:34Z",
       "browser_download_url": "https://github.com/SagarMaheshwary/reqlog/releases/download/v0.11.0/reqlog_0.11.0_linux_arm64.tar.gz"
