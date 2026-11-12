@@ -15,7 +15,7 @@
   binname: reqlog
   visiblename: sysutils/reqlog
   version: 0.11.0
-  origversion: null
+  origversion: 0.11.0_1
   status: newest
   summary: Search, trace, and stream logs across files, Docker, and SSH
   maintainers:
